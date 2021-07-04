@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Computer languages and courses.
 - 💞️ I’m looking to work with software companies.
-- 📫 You can mail me Orugantivamsi1999@gmail.com
+- 📫 You can mail me oruganti_vamsi@srmap.edu.in
 
 <!---
 Ovamsi-AP18110010261/Ovamsi-AP18110010261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
