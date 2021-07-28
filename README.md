@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ovamsi
+- 👋 Hi, I’m @ vamsi oruganti
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Computer languages and courses.
 - 💞️ I’m looking to work with software companies.
