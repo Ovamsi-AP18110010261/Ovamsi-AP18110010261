@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @ vamsi oruganti
-- 👀 I’m interested in Computer Science.
+- 👀 I’m a Computer Science Grad.
+- Love Data Science and Machine learning
+- Gen AI is taking over the world.
+- 
 
 
 <!---
